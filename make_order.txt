@@ -1,0 +1,6 @@
+Book's Name      : Python
+Quantity         : 2
+Price            : LKR 1500
+
+Total Amount   :SLR 3000
+Final Amount   :SLR 2850

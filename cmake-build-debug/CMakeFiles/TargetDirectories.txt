@@ -1,0 +1,3 @@
+F:/abc/cmake-build-debug/CMakeFiles/mBookShop.dir
+F:/abc/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/abc/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+Book's Name   : Python
+Price         : SLR 1500
+
+Book's Name   : Java
+Price         : SLR 1000
+
